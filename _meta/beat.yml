@@ -1,0 +1,7 @@
+################### Smartcenterbeat Configuration Example #########################
+
+############################# Smartcenterbeat ######################################
+
+smartcenterbeat:
+  # Defines how often an event is sent to the output
+  period: 1s

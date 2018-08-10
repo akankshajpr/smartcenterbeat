@@ -1,0 +1,5 @@
+= Smartcenterbeat Docs
+
+Welcome to the Smartcenterbeat documentation.
+
+
